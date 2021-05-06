@@ -1,0 +1,10 @@
+*.dotnet
+*-in
+*-out
+*.pwsh
+*-socket
+AutoAD.ova
+*.env
+scratch-file
+*.har
+.DS_Store
